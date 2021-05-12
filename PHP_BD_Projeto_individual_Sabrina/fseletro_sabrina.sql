@@ -1,4 +1,4 @@
-//fddfdsfsbfds
+//fddfdsfcfdfdfsbfds
 CREATE SCHEMA `fseletro`;
 
 CREATE TABLE `fseletro`.`produto` (
