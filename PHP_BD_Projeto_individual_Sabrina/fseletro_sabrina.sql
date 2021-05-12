@@ -1,5 +1,5 @@
 //fddfdsfcfdfdfsbfdscfdzczzcf
-sdkmskmDFDV
+sdkmskmDFDVffvxbxb
 CREATE SCHEMA `fseletro`;
 
 CREATE TABLE `fseletro`.`produto` (
